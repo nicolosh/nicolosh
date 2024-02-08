@@ -8,6 +8,8 @@ Tools/languages I am using:
 - C++
 - Matlab
 - VSCode
+- Python
+- Wolfram Mathematica
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolosh)
 

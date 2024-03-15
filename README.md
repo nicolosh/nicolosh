@@ -15,10 +15,10 @@ Tools/languages I am using:
 
 ![My Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nicolosh)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3877c9size=35&center=true&vCenter=true&width=1000&lines=Hi+There!+👋;+My+name+is+Déric+Augusto;I'm+a+23+years+old+student+from+Brazil;I'm+currently+studing+data+science+and+machine+learning;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3877c9size=35&center=true&vCenter=true&width=1000&lines=Hi+There!+👋;+My+name+is+Nicolò+Cavalieri;I'm+a+26+years+old+student+from+Mantua;I'm+currently+studing+Mechatronics+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/DericAugusto/DericAugusto/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/nicolosh/nicolosh/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
 
@@ -59,7 +59,7 @@ Tools/languages I am using:
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
 
 - 📫 Reach me @: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=https://www.linkedin.com/in/nicolò-cavalieri)](www.linkedin.com/in/nicolò-cavalieri-263774194)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&link=https://www.linkedin.com/in/nicol%C3%B2-cavalieri-263774194/)](https://www.linkedin.com/in/nicolò-cavalieri-263774194)
 ![GitHub Followers](https://img.shields.io/github/followers/nicolosh?style=social) 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=nicolosh) 🚀
 

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Nicolò Cavalieri, MSc student at the [Department of Industrial Engineering of the University of Trento](https://dii.unitn.it).
+I am Nicolò Cavalieri, ex student at the [Department of Industrial Engineering of the University of Trento](https://dii.unitn.it).
 
 Tools/languages I am using:
 

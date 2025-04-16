@@ -15,7 +15,7 @@ Tools/languages I am using:
 
 ![My Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nicolosh)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3877c9size=35&center=true&vCenter=true&width=1000&lines=Hi+There!+👋;+My+name+is+Nicolò+Cavalieri;I'm+a+26+years+old+student+from+Mantua;I'm+currently+studying+Mechatronics+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3877c9size=35&center=true&vCenter=true&width=1000&lines=Hi+There!+👋;+My+name+is+Nicolò+Cavalieri;I'm+a+27+years+old+student+from+Mantua;I'm+currently+working+after+having+studied+Mechatronics+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/DericAugusto/DericAugusto/output/github-contribution-grid-snake.svg" />

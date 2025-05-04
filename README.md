@@ -4,13 +4,14 @@ I am Nicolò Cavalieri, ex student at the [Department of Industrial Engineering 
 
 Tools/languages I am using:
 
-- C
-- C++
-- Matlab
-- VSCode
-- Python
-- Wolfram Mathematica
-
+- `C`
+- `C++`
+- `Matlab and Simulink`
+- `VSCode`
+- `Python`
+- `Wolfram Mathematica`
+- `Maple and MapleSim/SimScape`
+- `Ruby`
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolosh)
 
 ![My Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nicolosh)
